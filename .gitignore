@@ -44,3 +44,5 @@ moddata
 /*.dat
 /*.dat_old
 /*.txt
+!instance.json
+!instance.png
