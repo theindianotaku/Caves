@@ -16063,201 +16063,6 @@
         }
       },
       {
-        "name": "Iceberg",
-        "version": "1.1.15 Fabric (1.20.x)",
-        "optional": true,
-        "file": "Iceberg-1.20.1-fabric-1.1.15.jar",
-        "type": "mods",
-        "description": "A modding library that contains new events, helpers, and utilities to make modder's lives easier.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "modrinthProject": {
-          "id": "5faXoLqX",
-          "slug": "iceberg",
-          "project_type": "mod",
-          "team": "fGvFvA3S",
-          "title": "Iceberg",
-          "description": "A modding library that contains new events, helpers, and utilities to make modder's lives easier.",
-          "body": "<p><strong>This mod is a library for other mods, it doesn't do anything by itself.</strong></p>\n<p>This library contains new events, helpers, and utilities to make modder's lives easier.&nbsp; Usable on both client and server side, for Forge mods.</p>\n<p>This was made to help make my own mods more easily, and so I will only be able to provide limited support if you are using it for your own purposes.</p>\n<p>&nbsp;&nbsp;</p>\n<p><em>You are free to use this library in the development of your mods or in modpacks!</em></p>\n<p>&nbsp;</p>\n<p><a title=\"Join us in Discord!\" href=\"https://discord.gg/S5NQjbXPnb\"><img src=\"https://i.imgur.com/yX0xrk0.png\" width=\"200\" height=\"68\" /></a></p>\n<p><strong>Problems, feature request, something else?&nbsp; Join us on Discord!</strong></p>",
-          "published": "2022-11-15T06:48:55.303423Z",
-          "updated": "2023-09-08T18:22:41.293261Z",
-          "status": "approved",
-          "license": {
-            "id": "CC-BY-NC-ND-4.0",
-            "name": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"
-          },
-          "client_side": "required",
-          "server_side": "optional",
-          "categories": [
-            "library"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/5faXoLqX/fadafde0faf68b37947c8df97ba4e5a6725f4b6a.png",
-          "issues_url": "https://github.com/AHilyard/Iceberg/issues",
-          "source_url": "https://github.com/AHilyard/Iceberg/",
-          "wiki_url": "https://github.com/AHilyard/Iceberg/wiki/Item-Selectors-Documentation",
-          "discord_url": "https://discord.gg/S5NQjbXPnb",
-          "donation_urls": [
-            {
-              "id": "paypal",
-              "platform": "PayPal",
-              "url": "https://www.paypal.com/donate/?business=NYKUAV883JKA2&no_recurring=0&item_name=Thank+you+for+considering+a+donation.+It+helps+to+support+me+by+allowing+me+to+spend+more+time+making+mods+and+games.&currency_code=USD"
-            }
-          ],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "SLE7PvYD",
-          "project_id": "5faXoLqX",
-          "author_id": "3Q6HVcLg",
-          "name": "1.1.15 Fabric (1.20.x)",
-          "version_number": "1.1.15",
-          "changelog": "* Fixed a crash when installed alongside Andromeda.",
-          "date_published": "2023-08-15T17:44:20.175532Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "77f1400ad7d5b76f3c113d2e2f631b76e2c0de590cae0a6bb5728fa096e2c9863bc27f5fac0a966a5c87581c51c83068638d8d2a5236a30b1a7ae21413973cad",
-                "sha1": "0d2e4a54ed7971e3c2d13b4b9583fb9e65e6ccc1"
-              },
-              "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/SLE7PvYD/Iceberg-1.20.1-fabric-1.1.15.jar",
-              "filename": "Iceberg-1.20.1-fabric-1.1.15.jar",
-              "primary": true,
-              "size": 122736
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.20",
-            "1.20.1"
-          ],
-          "loaders": [
-            "fabric"
-          ]
-        }
-      },
-      {
-        "name": "Legendary Tooltips",
-        "version": "1.4.4 Fabric (1.20.x)",
-        "optional": true,
-        "file": "LegendaryTooltips-1.20.1-fabric-1.4.4.jar",
-        "type": "mods",
-        "description": "Give your rare items a fancier tooltip! Also adds additional tooltip configuration options.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "modrinthProject": {
-          "id": "atHH8NyV",
-          "slug": "legendary-tooltips",
-          "project_type": "mod",
-          "team": "80MpFuhC",
-          "title": "Legendary Tooltips",
-          "description": "Give your rare items a fancier tooltip! Also adds additional tooltip configuration options.",
-          "body": "<p>Ever feel like item tooltips are a little lackluster?&nbsp;&nbsp;<strong>Legendary Tooltips</strong> is here to change that.</p>\n<p><img src=\"https://i.imgur.com/TJfJlnx.gif\" width=\"550\" height=\"336\" /></p>\n<p>This mod will allow you to change the tooltips of a selection of items of your choice to embellished works of art.&nbsp; It also adds a host of other tooltip options including centered item names, tooltip shadows, matching tooltip borders to item colors, separators under item names, 3d item previews, compact tooltips, and more!</p>\n<p>&nbsp;</p>\n<p><strong>This mod requires Iceberg, you can download it <a href=\"https://modrinth.com/mod/iceberg\">here</a>.<br/>Versions 1.3 and up require Prism, you can download it <a href=\"https://modrinth.com/mod/prism-lib\">here</a>.</strong>&nbsp;</p>\n<p>&nbsp;</p>\n<h4><strong>Client / Server</strong></h4>\n<p>This mod is fully client-side.</p>\n<p>&nbsp;</p>\n<h4><strong>Configuration</strong></h4>\n<p>Extensive configuration instructions can be found <a href=\"https://github.com/AHilyard/LegendaryTooltips/wiki/Configuration-Instructions\"><strong>here</strong></a>.&nbsp; Please read this first!</p>\n<p>&nbsp;</p>\n<h5><strong>Players</strong></h5>\n<div class=\"spoiler\">\n<p>The configuration file includes instructions for setting up tooltips however you feel fit, please read the configuration instructions first!&nbsp; Supports up to sixteen custom borders, each of which can be set to apply to items by name, mod, tag, vanilla rarity, item name color, display name, tooltip text, or NBT tag.&nbsp; By default, the mod includes the custom border seen above, and more can easily be added with a resource pack.&nbsp; For an example resource pack that adds ten custom frames, check out <a href=\"https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips\">Eclectic Trove</a>!</p>\n</div>\n<p>&nbsp;</p>\n<h5><strong>Mod authors</strong></h5>\n<div class=\"spoiler\">\n<p><strong>The following only applies to version 1.2 and later!</strong></p>\n<p>If you are interested in adding custom borders to items in a mod you are coding, it is possible by adding Legendary Tooltips as a dependency.&nbsp; (Use cursemaven.com for this.)</p>\n<p>Use the <span style=\"font-family: 'courier new', courier, monospace;\">LegendaryTooltipsConfig.addFrameDefinition()</span> method to specify a list of selectors for a given ResourceLocation / frame index (see configuration file documentation if you don't understand what this means).&nbsp; This method is not widely supported, so if it isn't working, please try the preferred data-driven method below instead.</p>\n</div>\n<p>&nbsp;</p>\n<h5><strong>Resource pack authors</strong></h5>\n<div class=\"spoiler\">\n<p>Borders can be customized via resource packs.&nbsp; The resource pack is capable of replacing the default border included in the mod with up to 16 custom borders that can be used by the mod.&nbsp; Please see&nbsp;<a href=\"https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips\">Eclectic Trove</a>&nbsp;for an example--I recommend using this as a starting point when designing your own borders.&nbsp; There is also a template image available to make drawing easier, which can be found <a href=\"https://github.com/AHilyard/LegendaryTooltips/blob/1.16.5/assets/tooltip_borders.psd\">here</a>&nbsp;(this is a Photoshop project, so you will need Photoshop or an image editor that can read Photoshop files like Gimp).</p>\n<p>&nbsp;</p>\n<p><strong>The following only applies to version 1.2 and later!</strong></p>\n<p>As of version 1.2, it is also possible for resource packs and mods to define custom borders using a .json file resource included in the pack/mod itself.&nbsp; This file is loaded differently than normal resources, as they do not replace each other--all border definitions found in all active custom border resource files will be loaded and applied.&nbsp; These files allow you to use&nbsp;<em>any</em> properly-formatted image resource and can specify all colors to match.&nbsp; An example file that describes the file format can be found <a href=\"https://github.com/AHilyard/LegendaryTooltips/blob/1.18/src/main/resources/assets/legendarytooltips/frame_definitions.json\">here</a>.&nbsp; Please read this file first, as it contains a lot of information.&nbsp; You can also find an example in the <em>noconfig</em> variant of Eclectic Trove, which contains definitions for many vanilla items, <a href=\"https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips/version/1.2.0-noconfig-1.19+1.19.1+1.19.2\">here</a>.&nbsp;&nbsp;</p>\n</div>\n<p>&nbsp;</p>\n<h4><strong>Compatibility</strong></h4>\n<p>Highly compatible, this mod doesn't change the underlying tooltip behavior, only adds on.&nbsp; Also integrates with <a href=\"https://modrinth.com/mod/equipment-compare\">Equipment Compare</a>&nbsp;to provide even fancier comparison tooltips! (See images for an example)</p>\n<p>If you find some sort of compatibility issue, please let me know!</p>\n<p>&nbsp;</p>\n<p><em>You are free to use this mod in modpacks.</em></p>\n<p>&nbsp;</p>\n<p><a href=\"https://discord.gg/S5NQjbXPnb\" rel=\"nofollow\"><img src=\"https://i.imgur.com/yX0xrk0.png\" width=\"200\" height=\"68\" /></a></p>\n<p><strong>Problems, feature request, something else?&nbsp; Join us on Discord!</strong></p>",
-          "published": "2022-11-15T19:38:33.355951Z",
-          "updated": "2023-07-24T23:02:21.854061Z",
-          "status": "approved",
-          "license": {
-            "id": "CC-BY-NC-ND-4.0",
-            "name": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "adventure",
-            "equipment",
-            "utility"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/atHH8NyV/be363570c1dd3e0954712949ecad2600893bf36f.png",
-          "issues_url": "https://github.com/AHilyard/LegendaryTooltips/issues",
-          "source_url": "https://github.com/AHilyard/LegendaryTooltips/",
-          "wiki_url": "https://github.com/AHilyard/LegendaryTooltips/wiki/Configuration-Instructions",
-          "discord_url": "https://discord.gg/S5NQjbXPnb",
-          "donation_urls": [
-            {
-              "id": "paypal",
-              "platform": "PayPal",
-              "url": "https://www.paypal.com/donate/?business=NYKUAV883JKA2&no_recurring=0&item_name=Thank+you+for+considering+a+donation.+It+helps+to+support+me+by+allowing+me+to+spend+more+time+making+mods+and+games.&currency_code=USD"
-            }
-          ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/atHH8NyV/images/2ec71690fa88977d699e984223c62d19a430718d.png",
-              "featured": false,
-              "title": "Before / After",
-              "description": "Bring those tooltips to life.",
-              "created": "2022-11-15T19:54:04.687862Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/atHH8NyV/images/9102ae8314c3ab5154b14b7c0ee713f98ba3b70e.png",
-              "featured": false,
-              "title": "Integrates with Equipment Compare!",
-              "description": "Make those comparison tooltips even fancier!",
-              "created": "2022-11-15T19:54:07.151509Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/atHH8NyV/images/7a8688ef134a9a4e34b12200f8a152e62534a7bb.png",
-              "featured": false,
-              "title": "Try out the matching border color option.",
-              "description": "Works with all modded item colors!",
-              "created": "2022-11-15T19:54:05.917969Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "pKKg19XI",
-          "project_id": "atHH8NyV",
-          "author_id": "3Q6HVcLg",
-          "name": "1.4.4 Fabric (1.20.x)",
-          "version_number": "1.4.4",
-          "changelog": "* Added support for Minecraft 1.20.",
-          "date_published": "2023-07-18T00:07:07.275878Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "f63050d83d5c10fc18bf64a61e741d42cd45e20b",
-                "sha512": "10b9eddbc26f4722362b844ba9813ad91bb27598564e53ada59d3d51270e527bb8f48f005c3fac8f04efc5fed92b4342b23627aeeb8577084063a87a2fe28121"
-              },
-              "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/pKKg19XI/LegendaryTooltips-1.20.1-fabric-1.4.4.jar",
-              "filename": "LegendaryTooltips-1.20.1-fabric-1.4.4.jar",
-              "primary": true,
-              "size": 63967
-            }
-          ],
-          "dependencies": [
-            {
-              "version_id": "Fmetb8IP",
-              "project_id": "1OE8wbN0",
-              "dependency_type": "required"
-            },
-            {
-              "version_id": "cqJP89n5",
-              "project_id": "5faXoLqX",
-              "dependency_type": "required"
-            },
-            {
-              "version_id": "nYI4tEpt",
-              "project_id": "CYSUVOdj",
-              "dependency_type": "optional"
-            }
-          ],
-          "game_versions": [
-            "1.20",
-            "1.20.1"
-          ],
-          "loaders": [
-            "fabric"
-          ]
-        }
-      },
-      {
         "name": "Forge Config API Port",
         "version": "[FABRIC] [1.20.1] ForgeConfigAPIPort-v8.0.0",
         "optional": true,
@@ -16335,123 +16140,6 @@
             }
           ],
           "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "fabric"
-          ]
-        }
-      },
-      {
-        "name": "Advancement Plaques",
-        "version": "1.4.11 Fabric (1.20.x)",
-        "optional": true,
-        "file": "AdvancementPlaques-1.20.1-fabric-1.4.11.jar",
-        "type": "mods",
-        "description": "Replace those boring advancement popups with something flashier.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "modrinthProject": {
-          "id": "9NM0dXub",
-          "slug": "advancement-plaques",
-          "project_type": "mod",
-          "team": "5dTalMGN",
-          "title": "Advancement Plaques",
-          "description": "Replace those boring advancement popups with something flashier.",
-          "body": "<p><b>R</b>eplace those boring, anti-climactic advancement popups with fancy glowing plaques.</p>\n<p>&nbsp;</p>\n<h4><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/Bnyle3t.gif\" alt=\"\" width=\"379\" height=\"80\" /></h4>\n<h4>&nbsp;</h4>\n<p><strong>This mod requires Iceberg, you can download it <a href=\"https://modrinth.com/mod/iceberg\">here</a>.</strong>&nbsp;</p>\n<p>&nbsp;</p>\n<h4><strong>Client / Server</strong></h4>\n<h5>Forge</h5>\n<p>This mod adds new custom sounds, which (due to a limitation in Forge) means it needs to be installed on both the client and server.  If these sounds are disabled in config, this mod can be run on just the client side.</p>\n<h5>Fabric</h5>\n<p>The Fabric version is fully client-side. </p>\n<p>&nbsp;</p>\n<h4><strong>Configuration</strong></h4>\n<p>Can be configured to display plaques for any or all of the three advancement types (Task / Goal / Challenge), or to display on the top or bottom of the screen.&nbsp; The distance from the top or bottom of the screen is also configurable.&nbsp; If you'd like plaques to only show for select advancements, you can provide a list of advancement IDs with the whitelist configuration option.</p>\n<p>&nbsp;</p>\n<h4><strong>Customization</strong></h4>\n<p>The appearance of the plaques can be customized with resource packs.&nbsp; See&nbsp;<a href=\"https://modrinth.com/resourcepack/embellished-stone-advancements-plaques\">Embellished Stone (Advancement Plaques)</a>&nbsp;for an example.</p>\n<p>&nbsp;</p>\n<h4><strong>Compatibility</strong></h4>\n<p>Works with any advancements, even ones added by other mods and fully compatible with <a href=\"https://www.curseforge.com/minecraft/mc-mods/toast-control\">Toast Control</a>.&nbsp; Other mods that affect advancement popups may not work, let me know if you run into compatibility issues!</p>\n<p>&nbsp;</p>\n<p><em>You are free to use this mod in modpacks.</em></p>\n<p>&nbsp;&nbsp;&nbsp;</p>\n<p><a title=\"Join us in Discord!\" href=\"https://discord.gg/S5NQjbXPnb\"><img src=\"https://i.imgur.com/yX0xrk0.png\" width=\"200\" height=\"68\" /></a></p>\n<p><strong>Problems, feature request, something else?&nbsp; Join us on Discord!</strong></p>",
-          "published": "2022-11-15T07:09:55.593985Z",
-          "updated": "2023-07-22T17:37:43.829772Z",
-          "status": "approved",
-          "license": {
-            "id": "CC-BY-NC-ND-4.0",
-            "name": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"
-          },
-          "client_side": "required",
-          "server_side": "optional",
-          "categories": [
-            "adventure",
-            "game-mechanics",
-            "utility"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/9NM0dXub/98833142426918eaa5d722a0134d760b929f3303.png",
-          "issues_url": "https://github.com/AHilyard/AdvancementPlaques/issues",
-          "source_url": "https://github.com/AHilyard/AdvancementPlaques/",
-          "discord_url": "https://discord.gg/S5NQjbXPnb",
-          "donation_urls": [
-            {
-              "id": "paypal",
-              "platform": "PayPal",
-              "url": "https://www.paypal.com/donate/?business=NYKUAV883JKA2&no_recurring=0&item_name=Thank+you+for+considering+a+donation.+It+helps+to+support+me+by+allowing+me+to+spend+more+time+making+mods+and+games.&currency_code=USD"
-            }
-          ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/9NM0dXub/images/0f99f37ae8f44c878903855ded3e31b8851881e1.png",
-              "featured": false,
-              "title": "And challenges with gold!",
-              "created": "2022-11-15T07:23:40.640396Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/9NM0dXub/images/8e1ecef87378cfe55e7f63e01f8937bfb59eb27f.png",
-              "featured": false,
-              "title": "Goal advancments with silver...",
-              "created": "2022-11-15T07:23:38.187473Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/9NM0dXub/images/c112969fa076bfc32783cf70c819655ff8cc72b9.png",
-              "featured": false,
-              "title": "Mod advancements are fully supported!",
-              "created": "2022-11-15T07:23:42.047662Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/9NM0dXub/images/1bf6794e33d2c04ed02f7cd22601150b2d3b1e2a.png",
-              "featured": false,
-              "title": "Task advancements appear with copper borders.",
-              "created": "2022-11-15T07:23:37.035496Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "NaXd1ujM",
-          "project_id": "9NM0dXub",
-          "author_id": "3Q6HVcLg",
-          "name": "1.4.11 Fabric (1.20.x)",
-          "version_number": "1.4.11",
-          "changelog": "* Added advancement blacklist feature to config file.\n* The blacklist and whitelist features now support different ways to specify advancements, so it is easier to show/hide more advancements with less typing.",
-          "date_published": "2023-07-22T17:37:44.999166Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "43b1210a1441e6579a1c1382f46bf445bb945d98",
-                "sha512": "1f166c2e4775a7b2d011f8d5ffb15c619226c7a731f8868258def944b91f6c7c4d2cecff00218a0c5b55a9484e321ce34d699e3b9f9058703a2abafd25a10dfc"
-              },
-              "url": "https://cdn.modrinth.com/data/9NM0dXub/versions/NaXd1ujM/AdvancementPlaques-1.20.1-fabric-1.4.11.jar",
-              "filename": "AdvancementPlaques-1.20.1-fabric-1.4.11.jar",
-              "primary": true,
-              "size": 193733
-            }
-          ],
-          "dependencies": [
-            {
-              "version_id": "iP294YId",
-              "project_id": "5faXoLqX",
-              "dependency_type": "required"
-            },
-            {
-              "version_id": "CtENDTlF",
-              "project_id": "ohNO6lps",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.20",
             "1.20.1"
           ],
           "loaders": [
@@ -19590,13 +19278,1467 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "[FABRIC/QUILT] Disable Custom Worlds Advice",
+        "version": "4.1",
+        "optional": true,
+        "file": "DisableCustomWorldsAdvice-4.1.jar",
+        "type": "mods",
+        "description": "Minecraft asking you if you want to load a custom world is annoying. Let's fix it!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 401978,
+        "curseForgeFileId": 4619700,
+        "curseForgeProject": {
+          "id": 401978,
+          "name": "[FABRIC/QUILT] Disable Custom Worlds Advice",
+          "authors": [
+            {
+              "id": 53654969,
+              "name": "Nara",
+              "url": "https://www.curseforge.com/members/53654969-rdvdev2?username=rdvdev2"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Minecraft asking you if you want to load a custom world is annoying. Let's fix it!",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Dimensions",
+              "slug": "world-dimensions",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-dimensions",
+              "dateModified": "2014-05-08T17:37:26.84Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 410,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/25/635351494468414756.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Biomes",
+              "slug": "world-biomes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
+              "dateModified": "2014-05-08T17:34:59.587Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 407,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "fabric-disable-custom-worlds-advice",
+          "isFeatured": false,
+          "dateModified": "2023-07-01T17:29:24.057Z",
+          "dateCreated": "2020-08-13T03:13:32.553Z",
+          "dateReleased": "2023-07-01T17:18:49.317Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/rdvdev2/DisableCustomWorldsAdvice/issues",
+            "sourceUrl": "https://github.com/rdvdev2/DisableCustomWorldsAdvice"
+          },
+          "logo": {
+            "id": 293332,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/293/332/256/256/637328852126283848.png",
+            "title": "637328852126283848.png",
+            "url": "https://media.forgecdn.net/avatars/293/332/637328852126283848.png",
+            "modId": 401978
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4619700
+        },
+        "curseForgeFile": {
+          "id": 4619700,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "DisableCustomWorldsAdvice-4.1.jar",
+          "fileName": "DisableCustomWorldsAdvice-4.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-01T17:18:49.317Z",
+          "fileLength": 38644,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2413427589,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1136524626,
+              "name": "LICENSE_DisableCustomWorldsAdvice"
+            },
+            {
+              "fingerprint": 2874576285,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1182436401,
+              "name": "disable_custom_worlds_advice.mixins.json"
+            },
+            {
+              "fingerprint": 2253668949,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 778708282,
+              "name": "DisableCustomWorldsAdvice-refmap.json"
+            },
+            {
+              "fingerprint": 3494955998,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "af89914abaa661b1e055eb9fc45b26fba8c20102",
+              "algo": 1
+            },
+            {
+              "value": "213dddd5080de0b52630a3830404d7ea",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
+              "gameVersionName": "1.19.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "1.19.4",
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "1.20",
+            "Quilt"
+          ],
+          "fileFingerprint": 2860938766,
+          "modId": 401978
+        },
+        "modrinthProject": {
+          "id": "HdwRs3kc",
+          "slug": "dcwa",
+          "project_type": "mod",
+          "team": "xP4fKKoW",
+          "title": "Disable Custom Worlds Advice",
+          "description": "Minecraft asking you if you want to load a custom world is annoying. Let's fix it!",
+          "body": "This simple mod disables the annoying \"Experimental Features\" advice that appears every time you create or load a world with custom dimensions or world settings. You can use it if either this screen annoys you as much as it does to me or you are creating a mod with custom worldgen and you want to disable the advice screen (Jar-in-jar if that's your case!). Compatible with all 1.16.2+ versions, including prereleases!\n\n**Although this is a Fabric Mod, it does NOT require Fabric API.**",
+          "published": "2021-01-31T17:36:02.995921Z",
+          "updated": "2023-07-01T17:16:57.283462Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "utility",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/HdwRs3kc/icon.png",
+          "issues_url": "https://github.com/rdvdev2/DisableCustomWorldsAdvice/issues",
+          "source_url": "https://github.com/rdvdev2/DisableCustomWorldsAdvice",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/rdvdev2"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "P23QCBEG",
+          "project_id": "HdwRs3kc",
+          "author_id": "B922V5Jk",
+          "name": "4.1",
+          "version_number": "4.1",
+          "changelog": "- Added 1.20.x (including 1.20) compatibility",
+          "date_published": "2023-07-01T17:16:57.963414Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "af89914abaa661b1e055eb9fc45b26fba8c20102",
+                "sha512": "79b3aee9199c39d2e3320e9f1e0bd6c208f50ba3f7ba0c42649d0197cb27bc5cebb90a1defd9acaca29cbe3f2d6816ab619e043528f9a48ad2465d9795dd7f40"
+              },
+              "url": "https://cdn.modrinth.com/data/HdwRs3kc/versions/P23QCBEG/DisableCustomWorldsAdvice-4.1.jar",
+              "filename": "DisableCustomWorldsAdvice-4.1.jar",
+              "primary": true,
+              "size": 38644
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.19.4",
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Universal Graves",
+        "version": "3.0.0-pre.1+1.20.1",
+        "optional": true,
+        "file": "graves-3.0.0-pre.1+1.20.1.jar",
+        "type": "mods",
+        "description": "Customisable grave mod for Fabric!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 497175,
+        "curseForgeFileId": 4687445,
+        "curseForgeProject": {
+          "id": 497175,
+          "name": "Universal Graves",
+          "authors": [
+            {
+              "id": 61679721,
+              "name": "Patbox",
+              "url": "https://www.curseforge.com/members/61679721-patbox?username=patbox"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Customisable grave mod for Fabric!",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "universal-graves",
+          "isFeatured": false,
+          "dateModified": "2023-08-07T19:34:45.707Z",
+          "dateCreated": "2021-06-23T20:10:16.97Z",
+          "dateReleased": "2023-08-07T19:27:47.977Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/universal-graves",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Patbox/UniversalGraves/issues",
+            "sourceUrl": "https://github.com/Patbox/UniversalGraves"
+          },
+          "logo": {
+            "id": 839702,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/839/702/256/256/638233006907825987.png",
+            "title": "638233006907825987.png",
+            "url": "https://media.forgecdn.net/avatars/839/702/638233006907825987.png",
+            "modId": 497175
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4687445
+        },
+        "curseForgeFile": {
+          "id": 4687445,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "graves-3.0.0-pre.1+1.20.1.jar",
+          "fileName": "graves-3.0.0-pre.1+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-08-07T19:27:47.977Z",
+          "fileLength": 1423746,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2999633709,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1136524626,
+              "name": "LICENSE_graves"
+            },
+            {
+              "fingerprint": 2768270531,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3199132936,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3280458264,
+              "name": "universal-graves.mixins.json"
+            },
+            {
+              "fingerprint": 2587711305,
+              "name": "data"
+            },
+            {
+              "fingerprint": 609681166,
+              "name": "graves-refmap.json"
+            },
+            {
+              "fingerprint": 226774649,
+              "name": "eu"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "59000b20fe0316c0c08defa9db72218ea70f0d16",
+              "algo": 1
+            },
+            {
+              "value": "042189ec037bbe6253d1de11d83d8491",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 1718383657,
+          "modId": 497175
+        },
+        "modrinthProject": {
+          "id": "yn9u3ypm",
+          "slug": "universal-graves",
+          "project_type": "mod",
+          "team": "9DxYRsEU",
+          "title": "Universal Graves",
+          "description": "Customisable grave mod for Fabric!",
+          "body": "<img src=\"https://i.imgur.com/PMONXxW.png\" width=\"256px\"/>\n\n# Universal Graves\nIt's a simple, but really customisable grave/death chest mod! \nYou can customise as you like, by modifying message, blocks and hologram texts, how long it will be protected,\nif should drop items after expiring and alike.\n\nThis mod can work purely on servers, through for model support mod is required on clients!\n\n*This mod works only on Fabric and Quilt!*\n\nIf you have any questions, you can ask them on my [Discord](https://pb4.eu/discord)\n\n[Also check out my other mods and project, as you might find them useful!](https://pb4.eu)\n\n### Using 2.x/1.19.x or older?\n[Click here to view correct readme!](https://github.com/Patbox/UniversalGraves/blob/1.19.4/README.md)\n\n## Images\n![Default Grave look](https://i.imgur.com/rJoRmFT.png)\n\n## Commands (and permissions):\n- `/graves` - Main command, shows list of player's graves (`universal_graves.list`, available by default)\n- `/graves player <player>` - Opens gui with list of selected player's graves (`universal_graves.list_others`)\n- `/graves modify <player>` - Opens gui with list of executor's graves with ability to modify them (`universal_graves.modify`)\n- `/graves reload` - Reloads configuration and styles (requires `universal_graves.reload`)\n\nAdditionally, by having `universal_graves.teleport` permission, you can teleport to any grave.\n\n## Configuration:\nYou can find main config file in `./config/universal-graves/config.json`.\n[Formatting uses Simplified Text for which docs you can find here](https://placeholders.pb4.eu/user/text-format/).\nAdditionally, every message type has few own local variables, which you type as `${variable}`.\nMost grave specific messages support these variables: `player`, `protection_time`, `break_time`, `xp`,\n`item_count`, `position`, `world`, `death_cause`, `minecraft_day`, `creation_date`, `since_creation`,\n`id`.\n\nThere are few other data types:\n* `{/* PREDICATE */}` - Uses predicate format, [see here for all supported ones.](https://github.com/Patbox/PredicateAPI/blob/1.20/BUILTIN.md)\n* `{/* COST */}` - Format for specifying cost.\n  ```json5\n  {\n    // Type of cost. Supports, \"free\", \"creative\", \"item\" and \"level\"\n    \"type\": \"\",\n    // Only used for \"item\", describes Item Stack\n    \"input\": {/* ITEMSTACK */},\n    // Amount of cost.\n    \"count\": 0\n  }\n  ```\n* `{/* ITEMSTACK */}` - represents an item.\n  Simple format: `\"minecraft:skeleton_skull\"`\n  Full format\n  ```json5\n  {\n    \"id\": \"minecraft:skeleton_skull\",\n    \"Count\": 1,\n    // Optional nbt,\n    \"tag\": {}\n  }\n  ```\n\n```json5\n{\n  // Config version. Never modify it unless you want to risk data corruption!\n  \"config_version\": 3,\n  \"protection\": {\n    // Time grave is protected against other players. Set to -1 to make it infinite. In seconds\n    \"non_owner_protection_time\": 900,\n    // Time after which grave destroys itself. Set to -1 to disable it. In seconds\n    \"self_destruction_time\": 1800,\n    // Makes grave drop items after it expires/self destructs\n    \"drop_items_on_expiration\": true,\n    // Allows attackers to access graves, useful in case of pvp oriented servers.\n    \"attackers_bypass_protection\": false,\n    // Makes grave use real time instead of only progressing when world/server is running.\n    \"use_real_time\": false\n  },\n  \"interactions\": {\n    // Cost for accessing grave after death, \n    \"unlocking_cost\": { /* COST */ },\n    // Enables giving death compass, which points to player's grave.\n    \"give_death_compass\": true,\n    // Makes clicking grave open an ui.\n    \"enable_click_to_open_gui\": true,\n    // Enables quick pickup by shifting and clicking grave with empty hand.\n    \"shift_and_use_quick_pickup\": true,\n    // Allows players to remotely remove protection form grave.\n    \"allow_remote_protection_removal\": true,\n    // Allows players to remotely break grave.\n    \"allow_remote_breaking\": true,\n    // Allows players to remotely pay cost of unlocking the grave.\n    \"allow_remote_unlocking\": false\n  },\n  \"storage\": {\n    // Selects how much of experience is stored. \n    // Available types: \"none\", \"vanilla\", \"drop\", \"percent_point\", \"percent_level\"\n    \"experience_type\": \"percent_points\",\n    // Amount of percent stored for \"percent_X\" types\n    \"experience_percent:setting_value\": 100.0,\n    // Allows to create graves with only XP\n    \"can_store_only_xp\": false,\n    // Enables usage of alternative experience orb entity, to prevent XP duplication with some mods.\n    \"alternative_experience_entity\": false,\n    // Blocks items with enchantments from being added to grave.\n    \"blocked_enchantments\": [\n      \"somemod:soulbound\"\n    ]\n  },\n  \"placement\": {\n    // Limits grave count per player. -1 is unlimited\n    \"player_grave_limit\": -1,\n    // Allows grave to replace any block\n    \"replace_any_block\": false,\n    // Max distance around starting position used for search of free spot.\n    \"max_distance_from_source_location\": 8,\n    // Allows shifting starting position on failure\n    \"shift_location_on_failure\": true,\n    // Max amount of shifts allowed.\n    \"max_shift_tries\": 5,\n    // Distance used for shifting.\n    \"max_shift_distance\": 40,\n    // Makes grave generate on top of fluids instead of within them.\n    \"generate_on_top_of_fluids\": false,\n    // Makes broken graves restore replaced block.\n    \"restore_replaced_block\": false,\n    // Makes broken graves restore replaced block after player breaks them.\n    \"restore_replaced_block_after_player_breaking\": true,\n    // Damage types that don't generate graves.\n    \"cancel_creation_for_damage_types\": {\n      \"minecraft:fire\": \"... custom message or empty\"\n    },\n    // Attacker's entity types preventing grave creation.\n    \"cancel_creation_for_ignored_attacker_types\": {\n      \"minecraft:player\": \"... custom message or empty\"\n    },\n    // Predicates blocking creation of graves\n    \"blocking_predicates\": [{/* PREDICATE */}],\n    // Blocks creation of graves in modded claim areas.\n    \"block_in_protected_area\": {\n      \"goml:claim_protection\": true\n    },\n    // Blocks creation of graves in entire worlds.\n    \"blacklisted_worlds\": [\n      \"dungeons:world\"\n    ],\n    // Blocks creation of graves in areas.\n    \"blacklisted_areas\": {\n      \"minecraft:overworld\": [\n        {\n          \"x1\": -100,\n          \"y1\": -200,\n          \"z1\": -100,\n          \"x2\": 100,\n          \"y2\": 500,\n          \"z2\": 100,\n        }\n      ]\n    },\n    // Default grave creation failure message.\n    \"creation_default_failure_text\": \"...\",\n    // Grave creation failure in claim message.\n    \"creation_claim_failure_text\": \"...\"\n  },\n  \"teleportation\": {\n    // Teleportation cost\n    \"cost\": {/* COST */},\n    // Time before finalizing teleportation.\n    \"required_time\": 5,\n    // Y offset from grave location.\n    \"y_offset\": 1.0,\n    // Time for which player is invincible.\n    \"invincibility_time\": 2,\n    // Allows player to move while waiting.\n    \"allow_movement_while_waiting\": false,\n    // Messages send to player\n    \"text\": {\n      \"timer\": \"...\",\n      \"timer_allow_moving\": \"...\",\n      \"location\": \"...\",\n      \"canceled\": \"...\"\n    }\n  },\n  \"model\": {\n    // Default model file name\n    \"default\": \"default\",\n    // Alternatives for getting grave model.\n    \"alternative\": [\n      {\n        \"require\": {/* PREDICATE */},\n        \"model\": \"model_name\"\n      }\n    ],\n    // Enables workaround for geyser players, making graves look like skulls for them.\n    \"enable_geyser_workaround\": true,\n    // Base item fro visual/container grave.\n    \"gravestone_item_base\": \"minecraft:skeleton_skull\",\n    // NBT added to the item.\n    \"gravestone_item_nbt\": {}\n  },\n  \"ui\": {/* UI DEFINITIONS, modify text, */},\n  \"text\": {\n    // Date format used in placeholders. Uses https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html\n    \"date_format\": \"dd.MM.yyyy, HH:mm\",\n    // Overrides for world names.\n    \"world_names\": {\n      \"custom:world\": \"Custom World!\"\n    }\n  }\n}\n```\n\n## Grave models\n> Todo: Finish this section.\n\nGrave models are stored in `config/universal-graves/models/`. By default, there should be `example.json` file, which is a copy of default style.\nTo override default grave style, copy that file and rename it to `default.json` or other name specified in config and define its style.\nYou can also use different name and alternatives, to make random/unique models.\n",
+          "published": "2021-06-23T20:08:37.806994Z",
+          "updated": "2023-08-07T19:27:44.592110Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "optional",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "storage",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/yn9u3ypm/a933032aa191fdc43cd439074f5713f8351e7af9.png",
+          "issues_url": "https://github.com/Patbox/UniversalGraves/issues",
+          "source_url": "https://github.com/Patbox/UniversalGraves",
+          "discord_url": "https://pb4.eu/discord",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/patbox"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/yn9u3ypm/images/a13a64acc9ba5b5166993728a193fa9e1afeda95.png",
+              "featured": true,
+              "title": "Lonely grave (Player Head style)",
+              "created": "2023-06-25T14:35:57.107203Z",
+              "ordering": -10.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/yn9u3ypm/images/bae57168aa8ab18f398a31cb32e6c8d94782ac01.png",
+              "featured": false,
+              "title": "Corpse style protected (player) with armor",
+              "created": "2023-08-07T19:58:12.443330Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/yn9u3ypm/images/400d7b470d5b04ea4ec00b4179244e06b745d5c5.png",
+              "featured": false,
+              "title": "Corpse style unprotected",
+              "created": "2023-08-07T19:57:35.587309Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/yn9u3ypm/images/062065210aa74f8709d0ef54df008b408efbb36e.png",
+              "featured": false,
+              "title": "Old grave style (2.x)",
+              "created": "2023-01-08T08:32:42.043137Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/yn9u3ypm/images/23fca6f488cd72281e2185086eb57819b3ce2073.png",
+              "featured": false,
+              "title": "Soul style (protected)",
+              "created": "2023-08-07T19:58:29.675024Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "RqVbvts1",
+          "project_id": "yn9u3ypm",
+          "author_id": "L8RLwrF2",
+          "name": "3.0.0-pre.1+1.20.1",
+          "version_number": "3.0.0-pre.1+1.20.1",
+          "changelog": "",
+          "date_published": "2023-08-07T19:27:46.356808Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "1558a4dc77b91764f6e4d8717a7ec5ea86d8427f41d34ff3a761953f0448ee2974e752cd6fd452e4e354db8e35e3477facb995bfe6de6977dd981d7d4ed19d15",
+                "sha1": "59000b20fe0316c0c08defa9db72218ea70f0d16"
+              },
+              "url": "https://cdn.modrinth.com/data/yn9u3ypm/versions/RqVbvts1/graves-3.0.0-pre.1%2B1.20.1.jar",
+              "filename": "graves-3.0.0-pre.1+1.20.1.jar",
+              "primary": true,
+              "size": 1423746
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Chat Reporting Helper",
+        "version": "Unknown",
+        "optional": true,
+        "file": "Chat Reporting Helper.zip",
+        "type": "resourcepack",
+        "description": "An educational tool that explains chat reporting in a simple and neutral way.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 855981,
+        "curseForgeFileId": 4744015,
+        "curseForgeProject": {
+          "id": 855981,
+          "name": "Chat Reporting Helper",
+          "authors": [
+            {
+              "id": 10606890,
+              "name": "robotkoer",
+              "url": "https://www.curseforge.com/members/10606890-robotkoer?username=robotkoer"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An educational tool that explains chat reporting in a simple and neutral way.",
+          "categories": [
+            {
+              "name": "16x",
+              "slug": "sixteen-x",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/sixteen-x",
+              "dateModified": "2020-06-30T17:54:39.077Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 393,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/75/635351598555753321.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Modern",
+              "slug": "modern",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/modern",
+              "dateModified": "2020-06-30T17:54:39.13Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 401,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/55/635351500520222907.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/miscellaneous",
+              "dateModified": "2020-06-30T17:54:39.157Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 405,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/59/635351501101869320.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Mod Support",
+              "slug": "mod-support",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/mod-support",
+              "dateModified": "2020-06-30T17:54:39.16Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4465,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/623/635363922411546592.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 393,
+          "classId": 12,
+          "slug": "chat-reporting-helper",
+          "isFeatured": false,
+          "dateModified": "2023-09-08T16:18:49.173Z",
+          "dateCreated": "2023-04-29T11:45:52.137Z",
+          "dateReleased": "2023-09-08T16:14:18.787Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper",
+            "wikiUrl": "https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq#chat-reporting-and-fabulously-optimized",
+            "issuesUrl": "https://github.com/Fabulously-Optimized/fabulously-optimized/issues",
+            "sourceUrl": "https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Chat%20Reporting%20Helper"
+          },
+          "logo": {
+            "id": 811154,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/811/154/256/256/638183655521642697.png",
+            "title": "638183655521642697.png",
+            "url": "https://media.forgecdn.net/avatars/811/154/638183655521642697.png",
+            "modId": 855981
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 654475,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/654/475/310/172/screenshot_20230222_191156.png",
+              "title": "Realms chat tooltip (NCR)",
+              "url": "https://media.forgecdn.net/attachments/654/475/screenshot_20230222_191156.png",
+              "modId": 855981
+            },
+            {
+              "id": 654476,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/654/476/310/172/screenshot_20230222_191052.png",
+              "title": "Reporting enabled chat tooltip (NCR)",
+              "url": "https://media.forgecdn.net/attachments/654/476/screenshot_20230222_191052.png",
+              "modId": 855981
+            },
+            {
+              "id": 654477,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/654/477/310/172/screenshot_20230222_191039.png",
+              "title": "Reporting unknown chat tooltip (NCR)",
+              "url": "https://media.forgecdn.net/attachments/654/477/screenshot_20230222_191039.png",
+              "modId": 855981
+            },
+            {
+              "id": 654473,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/654/473/310/172/ae628c1af8e0a70b6945177f061c92fd105d5698.png",
+              "title": "Chat reporting warning",
+              "url": "https://media.forgecdn.net/attachments/654/473/ae628c1af8e0a70b6945177f061c92fd105d5698.png",
+              "modId": 855981
+            },
+            {
+              "id": 654478,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/654/478/310/172/screenshot_20230222_190638.png",
+              "title": "Reporting disabled chat tooltip (NCR)",
+              "url": "https://media.forgecdn.net/attachments/654/478/screenshot_20230222_190638.png",
+              "modId": 855981
+            }
+          ],
+          "mainFileId": 4744015
+        },
+        "curseForgeFile": {
+          "id": 4744015,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "3.2",
+          "fileName": "Chat Reporting Helper.zip",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-09-08T16:14:18.787Z",
+          "fileLength": 32376,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1038135048,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 365943635,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3938141411,
+              "name": "pack.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "ae655a2db8be34b9eab51f72acd08cd13a9ea29c",
+              "algo": 1
+            },
+            {
+              "value": "aab1e774effd27f08aa67acef0274e2a",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-08-06T00:00:00Z",
+              "gameVersionName": "1.20.2-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2-Snapshot",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 2573567685,
+          "modId": 855981
+        },
+        "modrinthProject": {
+          "id": "tN4E9NfV",
+          "slug": "chat-reporting-helper",
+          "project_type": "resourcepack",
+          "team": "hXhZpGSJ",
+          "title": "Chat Reporting Helper",
+          "description": "An educational tool that explains chat reporting in a simple and neutral way.",
+          "body": "**As seen on [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)!**\n\nMinecraft's default in-game wording about chat reporting is technical, confusing and gives the assumption that chat reporting exists in every server. [No Chat Reports](https://modrinth.com/mod/no-chat-reports)' wording is also technical, biased towards negativity and very detailed.\nThis resource pack fixes both by replacing those phrases with simple and unbiased, yet accurate phrases.\n\n### What this resource pack does\n\n- Change the tooltips on vanilla report buttons and chat indicators\n- Change the \"messages can't be verified\" warning toast\n- Change the \"Only Show Secure Chat\" label and tooltip\n- Change the description on vanilla report textbox\n- Change the status icons and tooltips on [No Chat Reports](https://modrinth.com/mod/no-chat-reports)\n- Ensures the phrases are short, clear and non-technical\n- [Is available in several languages](https://crowdin.com/project/fabulously-optimized)\n- Is an educational tool, not a protective one\n- Focuses on practical use cases and actual server behavior, not theoretical possibilities\n- Serve as an example and call to Mojang to improve transparency and clarity regarding this feature in the game\n\n<details>\n<summary>What this resource pack doesn't do</summary>\n\n- State, whether chat reporting is good or bad\n- Obstruct or mislead the meaning of any phrase\n- Edit the report icon or \"Player reporting\" button\n- Edit report or ban reasons\n- Edit the ban screen\n- Hide vanilla indicators or warning toast\n- Replicate the features of [No Chat Reports](https://modrinth.com/mod/no-chat-reports) or any other mod or plugin\n\n</details>\n\n### What do the icons mean?\n\nThe icons are only shown when you have [No Chat Reports](https://modrinth.com/mod/no-chat-reports) installed. For vanilla chat indicators, hover the gray box on the left.\n\n- ![unknown](https://i.ibb.co/Yb1n6fW/unknown.png) - status not yet known, you must send one chat message to get it\n- ![disabled](https://i.ibb.co/QDFzXCT/secure.png) - no chat messages can be reported to Mojang\n- ![optional](https://i.ibb.co/hstcjW7/neutral.png) - most chat messages can be reported to Mojang, but the server does not prefer it and the playing user opts out\n   - In some cases, no messages can be reported but that is not reflected on the icon. You can confirm by seeing if you can report anyone on Social Interactions.\n- ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) - all chat messages can be reported to Mojang\n- ![realms](https://i.ibb.co/gTxw84X/realms.png) - only on Realms: all chat messages can be reported to Mojang and [Mojang is passively monitoring the chat for violations](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE)\n\n### Who is this resource pack for\n\n- Users, who don't understand how chat reporting works\n- Users, who don't understand when and where chat reporting works\n- Users, who are positive, neutral or slightly concerned about chat reporting \n- Users, who don't understand the technical terms of vanilla or [No Chat Reports](https://modrinth.com/mod/no-chat-reports)\n- Modpacks, that have been afraid to include [No Chat Reports](https://modrinth.com/mod/no-chat-reports) due to potential confusion or bias\n- Modpacks, that want to ensure users know about chat reporting and where it works\n- Parents, who want to ensure their children play on servers that enforce chat reporting\n- Realm owners, who want to know the limitations and requirements of Realms\n- Server owners, who enforce chat reporting and want to ensure users know how it works\n\n### Even more questions\n\n> **Q**: Do I have to use this with [No Chat Reports](https://modrinth.com/mod/no-chat-reports)?\n>\n> **A**: No, though it is recommended to get more accurate status icons.\n\n> **Q**: Do I have to configure No Chat Reports a certain way to benefit from this?\n>\n> **A:** It has to be enabled and not whitelisting by default to get the indicator icons, any other changes are up to you. You may configure it to skip prompts automatically (set \"Default signing mode\" to \"On Demand\") to make the experience smoother.\n\n> **Q**: Should I install No Chat Reports if I like chat reportability?\n>\n> **A**: Yes, it is still recommended, as it is currently the only way to get a consistent indicator about the system being active on the server. Remember, the mod always respects the server's intent and does not contain any hacks or exploits.\n\n> **Q**: Why is this not in No Chat Reports itself?\n>\n> **A**: No Chat Reports' default phrases do a better job at describing the technical details and giving users traffic light-like indicators to assist on _avoiding_ chat reports. This resource pack is meant to be a more neutral approach similar to [Steam's \"VAC-secured\" indicator](https://i132.photobucket.com/albums/q3/Sierra_Oscar_2006/VAC2w.jpg) - any user can make their own call on whether seeing the shield icon is a bad or good thing. I really hope Mojang will implement something like this in the vanilla game one day.\n\n> **Q**: Does this replace every chat reporting-related phrase and icon?\n>\n> **A**: No, only the minimum that is required for clear understanding.\n\n> **Q**: What about skin and username reporting?\n>\n> **A**: As of version 3.0, the pack has been updated to reflect the new reporting selection screen. However, most of the features of this resource pack are still only focused on chat.\n\n> **Q**: I don't see the changed phrase where I should see it.\n>\n> **A**: That might be due to a lack of resource pack translation in your language, so default phrases are displayed as a fallback. [Please contribute!](https://crowdin.com/project/fabulously-optimized)\n\n> **Q**: Can I contribute translations to my language?\n>\n> **A**: Yes, please do! [Join the Crowdin project](https://crowdin.com/project/fabulously-optimized) and start translating.\n\n> **Q**: Where can I learn more about player reporting?\n>\n> **A**: [I have made a detailed writeup for my modpack Fabulously Optimized.](https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq)\n\n> **Q**: Backports?\n>\n> **A**: No. This is intended for Minecraft 1.19.4 and up, because both Minecraft and No Chat Reports have made some drastic changes compared to 1.19.3 and older.",
+          "published": "2023-04-29T11:40:58.149297Z",
+          "updated": "2023-09-08T16:13:33.819751Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "locale",
+            "simplistic",
+            "vanilla-like"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/tN4E9NfV/c2d93fd85469a512f67e53baa7648c1abe6645ef.png",
+          "issues_url": "https://github.com/Fabulously-Optimized/fabulously-optimized/issues",
+          "source_url": "https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Chat%20Reporting%20Helper",
+          "wiki_url": "https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq#chat-reporting-and-fabulously-optimized",
+          "discord_url": "https://fabulously-optimized.github.io/discord",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/tN4E9NfV/images/5eb8b8469192851bc4c2095f455f527cb413c12a.png",
+              "featured": true,
+              "title": "Chat reporting warning",
+              "created": "2023-09-02T11:02:17.739342Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/tN4E9NfV/images/cb589a668d76f75836dd2a640b1cb1f89c2435e1.png",
+              "featured": false,
+              "title": "Hide Modded Chat option",
+              "created": "2023-04-30T13:26:00.303580Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/tN4E9NfV/images/2fbf6098ff2ae5a2c6f380356b2019a2521c47bc.png",
+              "featured": false,
+              "title": "NCR global toggle",
+              "created": "2023-04-29T12:11:49.748241Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/tN4E9NfV/images/2f99202e90fadba5733dca245673013d6ef25014.png",
+              "featured": false,
+              "title": "Realms chat tooltip (NCR)",
+              "created": "2023-04-29T12:10:46.517427Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/tN4E9NfV/images/59391bf1d0479dbe1dd07fbdd00301e39b5284c3.png",
+              "featured": false,
+              "title": "Realms warning screen (NCR)",
+              "created": "2023-04-29T12:10:41.271755Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/tN4E9NfV/images/1c5425237f750a2a4c23359690a00d2a521e1c58.png",
+              "featured": false,
+              "title": "Reporting disabled singleplayer chat tooltip (NCR)",
+              "created": "2023-04-29T12:11:03.453425Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/tN4E9NfV/images/989224c0009d1bd390ec5d4ed41bfd9b319ad5b2.png",
+              "featured": false,
+              "title": "Reporting enabled chat tooltip (NCR)",
+              "created": "2023-04-29T12:10:51.888501Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/tN4E9NfV/images/19d9ec6bf949ea60328645583d645cf2907e5466.png",
+              "featured": false,
+              "title": "Reporting required chat message (NCR)",
+              "created": "2023-04-29T12:11:26.510614Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/tN4E9NfV/images/7142802c7ebfd3db6a23f1660e2cb0ec858bc0ba.png",
+              "featured": false,
+              "title": "Reporting required prompt (NCR)",
+              "created": "2023-04-29T12:11:30.641437Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/tN4E9NfV/images/1808f5a4d994e4944cade3e7aae12d805620a809.png",
+              "featured": false,
+              "title": "Reporting unknown chat tooltip (NCR)",
+              "created": "2023-04-29T12:10:57.136997Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/tN4E9NfV/images/7492dd4f0ef4e258c5bb1d42bbfa2c1c8b39a2b4.png",
+              "featured": false,
+              "title": "Unreportable message tooltip",
+              "created": "2023-04-29T12:11:35.537573Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "dnv1Qtty",
+          "project_id": "tN4E9NfV",
+          "author_id": "2avTeeAE",
+          "name": "3.2",
+          "version_number": "3.2",
+          "changelog": "Updated Italian, Vietnamese",
+          "date_published": "2023-09-08T16:13:34.479607Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "a6e0927e76da8fb2ab5dcfb578b437fcf8834ae6936b05edf13ad595c511e3ad75b11f70f9a59d3f3efcc013bc82153c5ebbb05ea49c1b5e5d6e283bbdb1c72d",
+                "sha1": "ae655a2db8be34b9eab51f72acd08cd13a9ea29c"
+              },
+              "url": "https://cdn.modrinth.com/data/tN4E9NfV/versions/dnv1Qtty/Chat%20Reporting%20Helper.zip",
+              "filename": "Chat Reporting Helper.zip",
+              "primary": true,
+              "size": 32376
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "qQyHxfxd",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2-pre1"
+          ],
+          "loaders": [
+            "minecraft"
+          ]
+        }
+      },
+      {
+        "name": "Fast Better Grass",
+        "version": "Unknown",
+        "optional": true,
+        "file": "Fast Better Grass.zip",
+        "type": "resourcepack",
+        "description": "Makes grass and related blocks use the top texture on the sides. Works with other resource packs!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 819030,
+        "curseForgeFileId": 4531677,
+        "curseForgeProject": {
+          "id": 819030,
+          "name": "Fast Better Grass",
+          "authors": [
+            {
+              "id": 10606890,
+              "name": "robotkoer",
+              "url": "https://www.curseforge.com/members/10606890-robotkoer?username=robotkoer"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Makes grass and related blocks use the top texture on the sides. Works with other resource packs!",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/miscellaneous",
+              "dateModified": "2020-06-30T17:54:39.157Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 405,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/59/635351501101869320.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Photo Realistic",
+              "slug": "photo-realistic",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/photo-realistic",
+              "dateModified": "2020-06-30T17:54:39.123Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 400,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/51/635351499583447065.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Traditional",
+              "slug": "traditional",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/traditional",
+              "dateModified": "2020-06-30T17:54:39.14Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 403,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/57/635351500831419880.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Modern",
+              "slug": "modern",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/modern",
+              "dateModified": "2020-06-30T17:54:39.13Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 401,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/55/635351500520222907.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "16x",
+              "slug": "sixteen-x",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/sixteen-x",
+              "dateModified": "2020-06-30T17:54:39.077Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 393,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/75/635351598555753321.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 393,
+          "classId": 12,
+          "slug": "fast-better-grass",
+          "isFeatured": false,
+          "dateModified": "2023-06-12T15:06:07Z",
+          "dateCreated": "2023-01-28T13:59:08.18Z",
+          "dateReleased": "2023-05-10T17:31:38.903Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/texture-packs/fast-better-grass",
+            "wikiUrl": "https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Fast%20Better%20Grass",
+            "issuesUrl": "https://discord.gg/fabulously-optimized-859124104644788234"
+          },
+          "logo": {
+            "id": 768366,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/768/366/256/256/638105111482104578.png",
+            "title": "638105111482104578.png",
+            "url": "https://media.forgecdn.net/avatars/768/366/638105111482104578.png",
+            "modId": 819030
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 613690,
+              "description": "Faithful 64x",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/613/690/310/172/2023-01-28_15.png",
+              "title": "Plains village",
+              "url": "https://media.forgecdn.net/attachments/613/690/2023-01-28_15.png",
+              "modId": 819030
+            },
+            {
+              "id": 613691,
+              "description": "Default",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/613/691/310/172/2023-01-28_15.png",
+              "title": "Plains village",
+              "url": "https://media.forgecdn.net/attachments/613/691/2023-01-28_15.png",
+              "modId": 819030
+            },
+            {
+              "id": 613689,
+              "description": "Faithful 64x",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/613/689/310/172/2023-01-28_15.png",
+              "title": "Supported blocks",
+              "url": "https://media.forgecdn.net/attachments/613/689/2023-01-28_15.png",
+              "modId": 819030
+            },
+            {
+              "id": 613688,
+              "description": "Default",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/613/688/310/172/2023-01-28_15.png",
+              "title": "Supported blocks",
+              "url": "https://media.forgecdn.net/attachments/613/688/2023-01-28_15.png",
+              "modId": 819030
+            }
+          ],
+          "mainFileId": 4531677
+        },
+        "curseForgeFile": {
+          "id": 4531677,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.20",
+          "fileName": "Fast Better Grass.zip",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-05-10T17:31:38.903Z",
+          "fileLength": 10943,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1172143832,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3386906036,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2890639022,
+              "name": "pack.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "99112956b043d060c7bd0a726d57b9f080fb1b87",
+              "algo": 1
+            },
+            {
+              "value": "fb986b7058f3bb1418df6aa02c1a9810",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2022-10-27T00:00:00Z",
+              "gameVersionName": "1.20-Snapshot"
+            }
+          ],
+          "gameVersions": [
+            "1.20",
+            "1.20.1",
+            "1.20-Snapshot"
+          ],
+          "fileFingerprint": 1919208018,
+          "modId": 819030
+        },
+        "modrinthProject": {
+          "id": "dspVZXKP",
+          "slug": "fast-better-grass",
+          "project_type": "resourcepack",
+          "team": "Zf4SRD4e",
+          "title": "Fast Better Grass",
+          "description": "Makes grass and related blocks use the top texture on the sides. Works with other resource packs!",
+          "body": "**As seen on [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)!**\n\nThis resource pack makes the following blocks use the top texture on their sides as well:\n\n* Grass block\n* Snow-covered grass block\n* Dirt path\n* Podzol\n* Mycelium\n* Warped nylium\n* Crimson nylium\n\nDirt paths have a special feature - they \"spread\" to the block below in order to look more seamless on villages.\n\nIn other words, the pack imitates OptiFine's Better Grass feature (fast mode) in resource pack form. The imitation is done by solely adjusting vanilla block models, no assets from other mods are used.\n\nFAQ:\n\n* Q: Does this work with my resource pack?\n  *  A: Yes.\n* Q: Do I need any mods to use this?\n  *  A: No.\n* Q: Can you also imitate the fancy mode?\n  *  A: Not yet, maybe I'll figure a way out some day.\n* Q: How does it compare to other similar packs?\n  *  A: This resource pack: \n     * uses only models, no textures (looks good with other resource packs and has smaller filesize)\n     * requires no mods to use\n     * works with resource packs that also attempt to change block models\n     * has down-spreading dirt paths\n     * gives a minor performance boost\n* Q: Backports to older versions?\n  *  A: Not planned.",
+          "published": "2023-01-28T14:09:55.563214Z",
+          "updated": "2023-05-10T17:30:34.713119Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "decoration",
+            "models",
+            "tweaks"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/dspVZXKP/5de0774f423d220fcd4e635b91f2bdfcb8a2b910.png",
+          "issues_url": "https://github.com/Fabulously-Optimized/fabulously-optimized/issues",
+          "source_url": "https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Fast%20Better%20Grass",
+          "wiki_url": "https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#resource-packs",
+          "discord_url": "https://fabulously-optimized.github.io/discord",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/dspVZXKP/images/e9584118adb3e46eda88564bcee9b8c955ef48ff.png",
+              "featured": false,
+              "title": "Supported blocks",
+              "description": "Default",
+              "created": "2023-01-28T14:11:57.643420Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/dspVZXKP/images/7428f15c6dc5c9c7627df2706896bee569113dde.png",
+              "featured": false,
+              "title": "Supported blocks",
+              "description": "Faithful 64x",
+              "created": "2023-01-28T14:12:12.377509Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/dspVZXKP/images/331e0145f1969df5f38c94a597f9bdb457e29db2.png",
+              "featured": true,
+              "title": "Village",
+              "description": "Default",
+              "created": "2023-01-28T14:12:30.697260Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/dspVZXKP/images/eae467af0d1854b0bc12603fa8ff2681cf364717.png",
+              "featured": false,
+              "title": "Village",
+              "description": "Faithful 64x",
+              "created": "2023-01-28T14:12:43.512585Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "85UDyEcd",
+          "project_id": "dspVZXKP",
+          "author_id": "2avTeeAE",
+          "name": "1.20",
+          "version_number": "1.20",
+          "changelog": "Updated manifest version",
+          "date_published": "2023-05-10T17:30:35.393637Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "99112956b043d060c7bd0a726d57b9f080fb1b87",
+                "sha512": "6b60d4c6842f1c4f5b9bbba6e839ed822fd95888600bd9ce39d293c96f47ec39305fb85c56f8fc3f41f090a94b17898c7f0caebfa746ac3e9fd27df347b21340"
+              },
+              "url": "https://cdn.modrinth.com/data/dspVZXKP/versions/85UDyEcd/Fast%20Better%20Grass.zip",
+              "filename": "Fast Better Grass.zip",
+              "primary": true,
+              "size": 10943
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "minecraft"
+          ]
+        }
+      },
+      {
+        "name": "Mod Menu Helper.zip",
+        "version": "Unknown",
+        "optional": true,
+        "file": "Mod Menu Helper.zip",
+        "type": "resourcepack",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false
+      },
+      {
+        "name": "Translations for Sodium",
+        "version": "Unknown",
+        "optional": true,
+        "file": "SodiumTranslations.zip",
+        "type": "resourcepack",
+        "description": "Unofficial translations for the Sodium Minecraft mod",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 867964,
+        "curseForgeFileId": 4736171,
+        "curseForgeProject": {
+          "id": 867964,
+          "name": "Translations for Sodium",
+          "authors": [
+            {
+              "id": 10606890,
+              "name": "robotkoer",
+              "url": "https://www.curseforge.com/members/10606890-robotkoer?username=robotkoer"
+            },
+            {
+              "id": 101292193,
+              "name": "FlashyReese",
+              "url": "https://www.curseforge.com/members/101292193-flashyreese?username=flashyreese"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Unofficial translations for the Sodium Minecraft mod",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/miscellaneous",
+              "dateModified": "2020-06-30T17:54:39.157Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 405,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/59/635351501101869320.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Font Packs",
+              "slug": "font-packs",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/font-packs",
+              "dateModified": "2022-02-14T12:58:24.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5244,
+              "iconUrl": "https://media.forgecdn.net/avatars/493/926/637804403044903691.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Mod Support",
+              "slug": "mod-support",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/mod-support",
+              "dateModified": "2020-06-30T17:54:39.16Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4465,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/623/635363922411546592.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "16x",
+              "slug": "sixteen-x",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/sixteen-x",
+              "dateModified": "2020-06-30T17:54:39.077Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 393,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/75/635351598555753321.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 393,
+          "classId": 12,
+          "slug": "translations-for-sodium",
+          "isFeatured": false,
+          "dateModified": "2023-09-11T00:54:38.517Z",
+          "dateCreated": "2023-05-30T18:55:51.573Z",
+          "dateReleased": "2023-09-11T00:51:09.09Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium",
+            "wikiUrl": "https://crowdin.com/project/sodium-fabric",
+            "sourceUrl": "https://github.com/Madis0/sodium-fabric-translations"
+          },
+          "logo": {
+            "id": 825164,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/825/164/256/256/638210697516027864.png",
+            "title": "638210697516027864.png",
+            "url": "https://media.forgecdn.net/avatars/825/164/638210697516027864.png",
+            "modId": 867964
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4747593
+        },
+        "curseForgeFile": {
+          "id": 4736171,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Sodium Translations v2.12.0",
+          "fileName": "SodiumTranslations.zip",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-09-04T00:51:23.127Z",
+          "fileLength": 158836,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3949094680,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2831778225,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3541062917,
+              "name": "pack.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "33484c0a55c5b0ac950061748c7213b96f5257fd",
+              "algo": 1
+            },
+            {
+              "value": "85f16af61bddfea7dcdb3445764cf8ef",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1"
+          ],
+          "fileFingerprint": 1644743120,
+          "modId": 867964
+        },
+        "modrinthProject": {
+          "id": "yfDziwn1",
+          "slug": "translations-for-sodium",
+          "project_type": "resourcepack",
+          "team": "EfuJpDHy",
+          "title": "Translations for Sodium",
+          "description": "Unofficial translations for the Sodium Minecraft mod",
+          "body": "Unofficial translations for the mod [Sodium](https://modrinth.com/mod/sodium).\n\n## Translating\n\n**By submitting translations, you are agreeing to have them licensed under the [Creative Commons Zero (CC0)](https://creativecommons.org/share-your-work/public-domain/cc0/) license.**\n\nYou can contribute to the translation effort on our Crowdin [project page](https://crowdin.com/project/sodium-fabric)! First you'll need to [register](https://accounts.crowdin.com/register) a Crowdin account if you haven't already. Translators are able to **translate** (submit a translation for an untranslated phrase), **suggest** (propose a better translation compared to an existing one), or **vote** (vote up or down the quality of a translation).\n\nFor more information on using Crowdin, please see their \"[Intro For Volunteer Translators](https://support.crowdin.com/for-volunteer-translators/)\" support page.\n\n## FAQ\n\n### Can I include this in my Modrinth/CurseForge/packwiz/whatever modpack?\n\nYes! Everyone can do it, don't need any special permission.\n\n### Current translation is wrong or I don't know how to translate it\n\nPlease [open an issue on the phrase](https://support.crowdin.com/online-editor/#reporting-issues).\n\n### My language is not listed or I want to become a proofreader\n\nPlease [request it on Crowdin Discussions](https://crowdin.com/project/sodium-fabric/discussions).\n\n#### Will you translate Sodium into minority or fictional languages?\n\nCurrently this project will not include fictional (e.g. Esperanto), \"joke\" (e.g. LOLCAT) or minority languages (speakers less than 1 million or insufficient translations in [official Minecraft project](https://crowdin.com/project/minecraft)). The reason is simple - these languages are easy to abuse and hard to proofread.\n\n### Where can I find the original language file?\n\nAt the moment, [1.19.4/stable branch en_us.json](https://github.com/CaffeineMC/sodium-fabric/blob/1.19.4/stable/src/main/resources/assets/sodium/lang/en_us.json) is used. Some strings may be appended from the equivalent dev branch file.",
+          "published": "2023-05-01T05:49:27.235534Z",
+          "updated": "2023-09-11T00:51:10.495249Z",
+          "status": "approved",
+          "license": {
+            "id": "CC0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "locale",
+            "modded",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/yfDziwn1/b881a25439a070a1836a4679a0482ffd956a9ba7.png",
+          "issues_url": "https://github.com/Madis0/sodium-fabric-translations/issues",
+          "source_url": "https://github.com/Madis0/sodium-fabric-translations",
+          "wiki_url": "https://crowdin.com/project/sodium-fabric",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/yfDziwn1/images/e1db1de9109db1d85cb2b177fb27757f08959f29.png",
+              "featured": false,
+              "title": "French",
+              "created": "2023-05-04T17:28:56.191771Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/yfDziwn1/images/823a027682b4464c98fc962fffe538fac47289ec.png",
+              "featured": false,
+              "title": "Russian",
+              "created": "2023-05-04T17:28:19.565061Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/yfDziwn1/images/41175c3da02a8737e1a474e47ff172e96d550149.png",
+              "featured": true,
+              "title": "Spanish",
+              "created": "2023-05-04T17:27:46.276583Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "hG527GKm",
+          "project_id": "yfDziwn1",
+          "author_id": "2avTeeAE",
+          "name": "Sodium Translations v2.12.0",
+          "version_number": "v2.12.0",
+          "changelog": "## [2.12.0](https://github.com/Madis0/sodium-fabric-translations/compare/v2.11.0...v2.12.0) (2023-09-04)",
+          "date_published": "2023-09-04T00:51:25.169545Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "33484c0a55c5b0ac950061748c7213b96f5257fd",
+                "sha512": "07e0ceb6a103f1d3f81f310ae9c4deb1a3b4c453d634e390c96ff8df65fee557d97d620b7eb86322bc8eab4124c8eec9df34758e38a00dcf2ed7a169c2db7069"
+              },
+              "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/hG527GKm/SodiumTranslations.zip",
+              "filename": "SodiumTranslations.zip",
+              "primary": true,
+              "size": 158836
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "AANobbMI",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "minecraft"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": true,
     "vanillaInstance": false,
-    "lastPlayed": 1694353657765,
-    "numPlays": 5
+    "lastPlayed": 1694460967253,
+    "numPlays": 7
   },
   "id": "1.20.1",
   "complianceLevel": 1,

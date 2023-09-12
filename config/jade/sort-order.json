@@ -43,6 +43,8 @@
   "minecraft:fluid_storage": null,
   "minecraft:energy_storage": null,
   "minecraft:progress": null,
+  "polymer:blockstate": null,
+  "polymer:entities": null,
   "jade:object_name": null,
   "jade:registry_name": null,
   "jade:mod_name": null,
