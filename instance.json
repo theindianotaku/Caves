@@ -20737,8 +20737,8 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": true,
     "vanillaInstance": false,
-    "lastPlayed": 1694460967253,
-    "numPlays": 7
+    "lastPlayed": 1694798167539,
+    "numPlays": 10
   },
   "id": "1.20.1",
   "complianceLevel": 1,
@@ -20897,10 +20897,10 @@
   "minimumLauncherVersion": "21",
   "assetIndex": {
     "id": "5",
-    "sha1": "9767c3c7faa655f0cc4798d30736e1df8d6a710f",
+    "sha1": "7a05724d46b041b5558190bb871de92b62405795",
     "size": 411581,
-    "url": "https://piston-meta.mojang.com/v1/packages/9767c3c7faa655f0cc4798d30736e1df8d6a710f/5.json",
-    "totalSize": 618900704
+    "url": "https://piston-meta.mojang.com/v1/packages/7a05724d46b041b5558190bb871de92b62405795/5.json",
+    "totalSize": 618986213
   },
   "assets": "5",
   "downloads": {
