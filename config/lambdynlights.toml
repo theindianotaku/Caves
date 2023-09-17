@@ -13,5 +13,19 @@ mode = "fastest"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
+				axolotl = true
+				bee = true
+				arrow = true
+				block_display = true
+				chest_boat = true
+				boat = true
+				allay = true
+				area_effect_cloud = true
+				bat = true
+				blaze = true
+				camel = true
+				cat = true
+				cave_spider = true
+				armor_stand = true
 				player = true
 

@@ -1,7 +1,11 @@
 {
 	"basics": {
 		"favorites": [
-			"{data:{Count:1b,id:\"minecraft:weathered_cut_copper\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{Count:1b,id:\"minecraft:weathered_cut_copper\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:oak_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cobbled_deepslate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:clay_ball\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:netherite_pickaxe\",tag:{AttributeModifiers:[{Amount:1.2000000476837158d,AttributeName:\"minecraft:generic.attack_speed\",Name:\"minecraft:generic.attack_speed\",Operation:0,Slot:\"mainhand\",UUID:[I;-1350756934,1188185811,-1805165704,150834650]},{Amount:-4.0d,AttributeName:\"minecraft:generic.attack_speed\",Name:\"minecraft:generic.attack_speed\",Operation:0,Slot:\"mainhand\",UUID:[I;1181166803,-1079688409,-1531004004,-1307030270]},{Amount:4.0d,AttributeName:\"minecraft:generic.attack_damage\",Name:\"minecraft:generic.attack_damage\",Operation:0,Slot:\"mainhand\",UUID:[I;-1456336350,-1030338018,-1165364439,-1987233011]}],Damage:0,Enchantments:[{id:\"minecraft:silk_touch\",lvl:1s},{id:\"minecraft:sharpness\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:1s},{id:\"minecraft:efficiency\",lvl:5s}],HideFlags:2,display:{Lore:['{\"text\":\"  \"}','{\"italic\":false,\"color\":\"gray\",\"text\":\"When in Main Hand:\"}','{\"italic\":false,\"color\":\"dark_green\",\"text\":\" 5 Attack Damage\"}','{\"italic\":false,\"color\":\"dark_green\",\"text\":\" 1.2 Attack Speed\"}']}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		"hiddenFavorites": [],
 		"displayHistory": [],
